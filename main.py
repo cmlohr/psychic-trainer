@@ -2,6 +2,7 @@ import random
 from replit import clear 
 from art import logo
 from art import logo2
+print("2020 | @Cmlohr")
 #Starting header
 print(logo)
 print(logo2)
